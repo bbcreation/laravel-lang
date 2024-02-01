@@ -3,6 +3,8 @@
     "description": "Languages for Laravel",
     "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",
+    "minimum-stability": "dev",
+    "type": "library",
     "authors": [
         {
             "name": "caouecs",
