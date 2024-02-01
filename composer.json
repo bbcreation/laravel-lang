@@ -5,6 +5,9 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "type": "library",
+    "require": {
+        "php": ">=7.4",
+    },
     "authors": [
         {
             "name": "caouecs",
