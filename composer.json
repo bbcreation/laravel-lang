@@ -1,6 +1,6 @@
 {
-    "name": "caouecs/laravel-lang",
-    "description": "Languages for Laravel",
+    "name": "bbcreation/laravel-lang",
+    "description": "fork Languages for Laravel",
     "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",
     "minimum-stability": "dev",
